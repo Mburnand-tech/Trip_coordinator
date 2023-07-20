@@ -1,4 +1,4 @@
-# Trip Coordinator
+# Trip Coordinato
 
 I am currently building this app, it is far from complete
 
