@@ -1,6 +1,6 @@
 # Trip Coordinator
 
-I am currently building this app, it is far from complete. 
+I am currently building this app, it is far from complete
 
 ## :memo: Description
 
